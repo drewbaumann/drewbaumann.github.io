@@ -8,7 +8,7 @@ permalink: /privacy-policy/
 
 At our company, we prioritize your privacy and aim to collect the least amount of personal data from you as possible. We only collect information when necessary for the functionality of our website and apps. Whenever feasible, we provide you with the option to opt out of data collection. Further details regarding the data we collect and the reasons behind it are outlined in the following sections.
 
-Andrew Baumann ("us", "we", or "our") operates the https://drewbaumann.com website and the Chroma - Spacial For Plex application ("Chroma", or the "Service").
+Andrew Baumann ("us", "we", or "our") operates the https://drewbaumann.com website and the Chroma - Cinema For Plex application ("Chroma", or the "Service").
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -186,6 +186,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, you can contact us via [email](mailto:drewbaumann@gmail.com) or via mail at:
 
-3015 11th St.
-Santa Monica, CA 90405
+1653 7TH ST
+PO BOX 481
+SANTA MONICA, CA 90401
 USA

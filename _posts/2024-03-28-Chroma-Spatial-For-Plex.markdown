@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chroma - Spatial For Plex"
+title:  "Chroma - Cinema For Plex"
 date:   2024-03-28 17:38:45 -0700
 categories: chroma
 ---
