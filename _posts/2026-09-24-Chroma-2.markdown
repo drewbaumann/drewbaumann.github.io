@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Chroma 2: every server, every screen"
+date:   2026-09-24 12:00:00 -0700
+categories: chroma
+---
+Back in March 2024 I shipped the first version of Chroma, a Plex client for the Apple Vision Pro that put your library on a giant screen in a cinema. A lot has happened since then. Chroma 2 is a different app: it plays from Plex, Jellyfin *and* Emby, it runs on iPhone and iPad as well as Vision Pro, and it has picked up a long list of things I always wanted in a media player. Here's everything that's new across the 2.x releases so far.
+
+![Chroma's Home on Apple Vision Pro](/assets/images/chroma-2/vision-home.jpg)
+
+## Every server, one sidebar
+
+Chroma started out as Plex-only. Now **Jellyfin and Emby** sit alongside Plex, and you can connect as many servers as you like. They all live in one sidebar, and **search covers every server at once**. You can also search inside a single library, from the top of its grid, and the results come from the server so they cover the whole collection.
+
+A few things that make multiple servers pleasant to live with:
+
+- **Custom server addresses.** Point Chroma at an address your server doesn't advertise, like a Tailscale or VPN hostname, a reverse proxy, or a LAN IP. Chroma checks that it really is your server before it saves it.
+- **Plex Home.** Switch between the people sharing one Plex account, each with their own libraries and watch progress.
+- **A film in two libraries shows up once.** If you have the HD and 4K versions in separate libraries, you get one card with the versions in its menu.
+- **Steadier connections.** A server that's asleep doesn't slow down the others, and when one can't be reached Chroma says so straight away and reconnects on its own when it comes back.
+
+<img src="/assets/images/chroma-2/iphone-servers.jpg" alt="Libraries from several servers on iPhone" width="300">
+
+## iPhone and iPad
+
+Chroma is on **iPhone and iPad** now. It's the same app, built for the smaller screen: the same Home, the same detail pages, the same downloads, and a native player with your subtitle styles.
+
+<img src="/assets/images/chroma-2/iphone-home.jpg" alt="Chroma's Home on iPhone" width="300"> <img src="/assets/images/chroma-2/iphone-detail.jpg" alt="A movie's detail page on iPhone" width="300">
+
+![Chroma's Home on iPad](/assets/images/chroma-2/ipad-home.jpg)
+
+## Browsing that feels instant
+
+Browsing got rebuilt from the ground up. Detail pages have **trailers, extras and cast** (with the episodes of a show laid out below), and you can browse by **genre**. A show opens on the season you're actually watching. **Pages open instantly**, even right after launching the app: Chroma shows what it last saw, then quietly catches up in the background.
+
+![A movie's detail page on Vision Pro](/assets/images/chroma-2/vision-detail.jpg)
+
+![A show's episodes and cast](/assets/images/chroma-2/vision-episodes-cast.jpg)
+
+## Watching, in the cinema
+
+The cinema is still the heart of the Vision Pro app, and it keeps getting better:
+
+- **The sound is laid out around you and anchored to the screen**, so dialogue stays where the picture is when you turn your head.
+- **Up Next** keeps the picture playing while the next episode waits in the corner, and **Skip Intro** is right where you'd expect it.
+- The info card has a **Continue Watching** tab, so you can pick up something else without leaving your seat.
+
+![Watching in Chroma's cinema](/assets/images/chroma-2/vision-cinema.jpg)
+
+![Skip Intro in the cinema](/assets/images/chroma-2/vision-skip-intro.jpg)
+
+## New ways to watch
+
+- **AI 3D** (Vision Pro): watch regular 2D titles with real depth.
+- **VR180, VR360 and spatial video** playback on Vision Pro.
+- **Transcribe:** on-device live subtitles for videos that don't have any.
+- **Subtitles that follow your style.** Image-based subtitles (the ones burned into Blu-ray rips) get converted to text, so they use your font and size like any other subtitle.
+
+![Subtitle styles on iPad](/assets/images/chroma-2/ipad-subtitles.jpg)
+
+## The Analog TV
+
+This one's just for fun, and it's Vision Pro only. Pick **Analog TV** and a vintage CRT set appears right in your room, next to your other apps. Your movie plays on the tube, with scanlines, phosphor tint and bloom you can tune to taste, and the sound comes from the set. It even lights up your room: the colors on screen spill onto the real floor in front of the TV, the way an old set glows in a dark room.
+
+## Downloads
+
+- **Download a whole season** in one go, or just the episodes you haven't watched.
+- A show's episodes sit together in one row, with the poster, episode count and storage used.
+- Downloads remember where you left off.
+
+![Downloads on Vision Pro](/assets/images/chroma-2/vision-downloads.jpg)
+
+## Siri, Shortcuts and widgets
+
+- Ask Siri to **"play Shrek in Chroma"**, **"continue watching in Chroma"** or **"play the next episode"**. While something's playing, **"turn on subtitles"** or **"change the audio to English"** work too.
+- Your Continue Watching and Recently Added titles show up in **Spotlight** and Siri's suggestions.
+- The **Movie Poster widget** puts a shelf of posters on your Home Screen, with your progress under each one. You choose, per widget, whether tapping a poster opens the title or starts playing it.
+
+## Plus a watchlist
+
+Heart any title on Plex or Jellyfin and it lands on your **Watchlist**, which gets its own row on Home and a page of its own.
+
+## Chroma Pass
+
+Chroma Pass unlocks everything above. It's available **Monthly, Yearly, or as a one-time Lifetime** purchase, and it starts with a free trial.
+
+---
+
+Chroma is on the [App Store](https://apps.apple.com/app/id6478800800) for Apple Vision Pro, iPhone and iPad. If you try it, I'd love to hear what you think. There's a lot more on the way.
