@@ -16,7 +16,7 @@ Chroma started out as Plex-only. Now **Jellyfin and Emby** sit alongside Plex, a
 
 A few things that make multiple servers pleasant to live with:
 
-- **Custom server addresses.** Point Chroma at an address your server doesn't advertise, like a Tailscale or VPN hostname, a reverse proxy, or a LAN IP. Chroma checks that it really is your server before it saves it.
+- **Custom Plex server addresses.** Point Chroma at an address your Plex server doesn't advertise, like a Tailscale or VPN hostname, a reverse proxy, or a LAN IP. Chroma checks that it really is your server before it saves it.
 - **Plex Home.** Switch between the people sharing one Plex account, each with their own libraries and watch progress.
 - **A film in two libraries shows up once.** If you have the HD and 4K versions in separate libraries, you get one card with the versions in its menu.
 - **Steadier connections.** A server that's asleep doesn't slow down the others, and when one can't be reached Chroma says so straight away and reconnects on its own when it comes back.
@@ -44,7 +44,7 @@ Browsing got rebuilt from the ground up. Detail pages have **trailers, extras an
 The cinema is still the heart of the Vision Pro app, and it keeps getting better:
 
 - **The sound is laid out around you and anchored to the screen**, so dialogue stays where the picture is when you turn your head.
-- **Up Next** keeps the picture playing while the next episode waits in the corner, and **Skip Intro** is right where you'd expect it.
+- **Up Next** keeps the picture playing while the next episode waits in the corner, and on Plex, **Skip Intro** is right where you'd expect it.
 - The info card has a **Continue Watching** tab, so you can pick up something else without leaving your seat.
 
 ![Watching in Chroma's cinema](/assets/images/chroma-2/vision-cinema.jpg)
@@ -56,7 +56,7 @@ The cinema is still the heart of the Vision Pro app, and it keeps getting better
 - **AI 3D** (Vision Pro): watch regular 2D titles with real depth.
 - **VR180, VR360 and spatial video** playback on Vision Pro.
 - **Transcribe:** on-device live subtitles for videos that don't have any.
-- **Subtitles that follow your style.** Image-based subtitles (the ones burned into Blu-ray rips) get converted to text, so they use your font and size like any other subtitle.
+- **Subtitles that follow your style.** Image-based subtitles (the PGS tracks common in Blu-ray rips) get converted to text, so they use your font and size like any other subtitle.
 
 ![Subtitle styles on iPad](/assets/images/chroma-2/ipad-subtitles.jpg)
 
@@ -82,7 +82,7 @@ This one's just for fun, and it's Vision Pro only. Pick **Analog TV** and a vint
 
 - Ask Siri to **"play Shrek in Chroma"**, **"continue watching in Chroma"** or **"play the next episode"**. While something's playing, **"turn on subtitles"** or **"change the audio to English"** work too.
 - Your Continue Watching and Recently Added titles show up in **Spotlight** and Siri's suggestions.
-- The **Movie Poster widget** puts a shelf of posters on your Home Screen, with your progress under each one. You choose, per widget, whether tapping a poster opens the title or starts playing it.
+- The **Movie Poster widget** puts a shelf of posters on your Home Screen (or in your room, on Vision Pro), with your progress under each one. You choose, per widget, whether tapping a poster opens the title or starts playing it.
 
 ## Plus a watchlist
 
@@ -90,7 +90,7 @@ Heart any title on Plex or Jellyfin and it lands on your **Watchlist**, which ge
 
 ## Chroma Pass
 
-Chroma Pass unlocks everything above. It's available **Monthly, Yearly, or as a one-time Lifetime** purchase, and it starts with a free trial.
+Everything above works in Chroma for free, with a limit on watch time. **Chroma Pass** removes that limit, unlocks the exclusive cinema environments, and syncs your watch progress with your server. It's available **Monthly, Yearly, or as a one-time Lifetime** purchase, and it starts with a free trial.
 
 ---
 
