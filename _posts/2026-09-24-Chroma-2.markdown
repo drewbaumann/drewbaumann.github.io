@@ -10,9 +10,9 @@ Back in March 2024 I shipped the first version of Chroma, a Plex client for the 
 
 ![Chroma's Home on Apple Vision Pro](/assets/images/chroma-2/vision-home.jpg)
 
-## Every server, one sidebar
+## Every server, one app
 
-Chroma started out as Plex-only. Now **Jellyfin and Emby** sit alongside Plex, and you can connect as many servers as you like. They all live in one sidebar, and **search covers every server at once**. You can also search inside a single library, from the top of its grid, and the results come from the server so they cover the whole collection.
+Chroma started out as Plex-only. Now **Jellyfin and Emby** sit alongside Plex, and you can connect as many servers as you like. They share one toolbar, so switching between them is a tap, and **search covers every server at once**. You can also search inside a single library, from the top of its grid, and the results come from the server so they cover the whole collection.
 
 A few things that make multiple servers pleasant to live with:
 
