@@ -6,6 +6,8 @@ categories: chroma
 ---
 Back in March 2024 I shipped the first version of Chroma, a Plex client for the Apple Vision Pro that put your library on a giant screen in a cinema. A lot has happened since then. Chroma 2 is a different app: it plays from Plex, Jellyfin *and* Emby, it runs on iPhone and iPad as well as Vision Pro, and it has picked up a long list of things I always wanted in a media player. Here's everything that's new across the 2.x releases so far.
 
+[Get Chroma on the App Store](https://apps.apple.com/app/id6478800800) for Apple Vision Pro, iPhone and iPad.
+
 ![Chroma's Home on Apple Vision Pro](/assets/images/chroma-2/vision-home.jpg)
 
 ## Every server, one sidebar
@@ -61,6 +63,12 @@ The cinema is still the heart of the Vision Pro app, and it keeps getting better
 ## The Analog TV
 
 This one's just for fun, and it's Vision Pro only. Pick **Analog TV** and a vintage CRT set appears right in your room, next to your other apps. Your movie plays on the tube, with scanlines, phosphor tint and bloom you can tune to taste, and the sound comes from the set. It even lights up your room: the colors on screen spill onto the real floor in front of the TV, the way an old set glows in a dark room.
+
+![The Analog TV on a shelf in the room](/assets/images/chroma-2/vision-analog-tv.jpg)
+
+![The Analog TV in a living room, next to everything else](/assets/images/chroma-2/vision-analog-tv-room.jpg)
+
+<small>Playing on the set: *Big Buck Bunny* © Blender Foundation, CC BY 3.0.</small>
 
 ## Downloads
 
